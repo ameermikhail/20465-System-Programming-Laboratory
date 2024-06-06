@@ -7,7 +7,7 @@ This project is a C program that acts as an assembler for a specific architectur
 To use this program, follow these steps:
 
 1. **Clone the Repository:**
-
+git clone https://github.com/ameermikhail/20465-System-Programming-Laboratory.git
 2. **Navigate to the Project Directory:**
 
 3. **Compile the Program:**
