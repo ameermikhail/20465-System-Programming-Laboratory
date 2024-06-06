@@ -11,7 +11,7 @@ git clone https://github.com/ameermikhail/20465-System-Programming-Laboratory.gi
 2. **Navigate to the Project Directory:**
 cd 20465-System-Programming-Laboratory
 3. **Compile the Program:**
-The provided Makefile simplifies the compilation process. Simply run:
+The provided Makefile simplifies the compilation process. Simply run "make"
 
 4. **Run the Program:**
 After compilation, you can run the program by executing the generated executable "./assembler"
