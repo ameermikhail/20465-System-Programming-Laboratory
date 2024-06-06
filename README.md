@@ -9,7 +9,7 @@ To use this program, follow these steps:
 1. **Clone the Repository:**
 git clone https://github.com/ameermikhail/20465-System-Programming-Laboratory.git
 2. **Navigate to the Project Directory:**
-
+cd 20465-System-Programming-Laboratory
 3. **Compile the Program:**
 The provided Makefile simplifies the compilation process. Simply run:
 
