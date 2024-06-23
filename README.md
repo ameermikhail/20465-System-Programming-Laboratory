@@ -1,4 +1,4 @@
-# C Assembler Project
+# C Assembler Project (Final score 91)
 
 This project is a C program that acts as an assembler for a specific architecture. It takes assembly code written for this architecture and translates it into machine code.
 
